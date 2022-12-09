@@ -1,13 +1,26 @@
-### Hi, I'm Keyuri Patel 👋
-I have completed Full Stack Web Development from Concordia University
-
-🌱 I’m currently deeply learning HTML, CSS, Javascript from w3school
-📫 How to reach me keyuripatel31@gmail.com
-I'm very fond of: 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<body>
+<h1 align="center">Hi, I'm Keyuri Patel 👋</h1>
+<h3 align="center">Full Stack Web Development from Concordia University</h3>
+<hr>
+🌱 I’m currently deeply learning HTML, CSS, Javascript from w3schools<br>
+📫 How to reach me  <a href="mailto:michaelwagner780@gmail.com" target="blank">keyuripatel31@gmail.com</a></li>
       
-Thank you for looking at my GitHub profile!
+<h4 align="center">I'm interested in: </h4>
+      
+<div align="center">
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br>
 
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+</div>
+      
+<hr/>
+
+<h4>Thank you for viewing my profile!!</h4>
+</body>
 
 <!--
 **Keyuri31/Keyuri31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
