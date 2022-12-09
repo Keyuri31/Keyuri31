@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Keyuri Patel 👋
+I have completed Full Stack Web Development from Concordia University
+
+🌱 I’m currently deeply learning HTML, CSS, Javascript from w3school
+📫 How to reach me keyuripatel31@gmail.com
+I'm very fond of: 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      
+Thank you for looking at my GitHub profile!
+
 
 <!--
 **Keyuri31/Keyuri31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
