@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Development from Concordia University</h3>
 <hr>
 🌱 I’m currently deeply learning HTML, CSS, Javascript from w3schools<br>
-📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel31@gmail.com</a></li>
+📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a></li>
       
 <h4 align="center">I'm interested in: </h4>
       
