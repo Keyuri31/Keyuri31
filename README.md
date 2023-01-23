@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Keyuri Patel 👋</h1>
 <h3 align="center">Full Stack Web Development from Concordia University</h3>
 <hr>
-🌱 I’m currently deeply learning HTML, CSS, Javascript from w3schools<br>
- 🌱 Learning TypeScript <br>  
+
+🌱 Learning TypeScript <br>  
 📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a></li>
       
 <h4 align="center">I'm interested in: </h4>
