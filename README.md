@@ -1,13 +1,13 @@
 <body>
 <h1 align="center">Hi, I'm Keyuri Patel 👋</h1>
-<h3 align="center">Full Stack Web Development from Concordia University</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <hr>
 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m interested in Python 
 - I'm seeking an opportunity to showcase my ability to work
   
-📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a></li>
+📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a> or <a>(514)570 3195</a></li>
       
 <h4 align="center">I'm interested in: </h4>
       
