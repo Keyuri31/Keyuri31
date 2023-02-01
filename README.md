@@ -7,7 +7,7 @@
 - 👯 I’m interested in Python 
 - I'm seeking an opportunity to showcase my ability to work
   
-📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a> or <a>(514)570 3195</a></li>
+📫 How to reach me  <a href="mailto:keyuripatel95@gmail.com" target="blank">keyuripatel95@gmail.com</a> or <a>+1 (514) 570 3195</a></li>
       
 <h4 align="center">I'm interested in: </h4>
       
